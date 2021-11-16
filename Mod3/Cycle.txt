@@ -1,0 +1,1 @@
+Weight: 1000.0 Number of wheels: 100.0
